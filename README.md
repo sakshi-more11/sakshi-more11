@@ -1,4 +1,4 @@
-👋 <h1>Hi, I'm Sakshi</h1>
+ <h1>👋Hi, I'm Sakshi</h1>
 
 🌍 Passionate about exploring the evolving era of **Artificial Intelligence** and its **real-world applications**.  
 🌱 Currently mastering **Python** on my journey to becoming a **skilled AI/ML Engineer**.  
