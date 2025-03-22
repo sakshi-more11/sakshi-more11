@@ -1,5 +1,4 @@
-👋 Hi, I'm Sakshi
-🚀 AI Enthusiast | Python Developer | Open-Source Contributor  
+👋 Hi, I'm Sakshi 
 
 🌍 Passionate about exploring the evolving era of **Artificial Intelligence** and its **real-world applications**.  
 🌱 Currently mastering **Python** on my journey to becoming a **skilled AI/ML Engineer**.  
