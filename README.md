@@ -5,5 +5,5 @@
 💡 Interested in **AI-powered chatbots**, **hybrid recommendation systems**, and **mental health-focused AI**.  
 🤝 Looking to collaborate on **AI-based projects**, **open-source contributions**, and **Python frameworks**.  
 😄 Pronoun: SHE<br>
-⚡ Fun fact: 🔊 The sound of a successful code run is music to my ears!!🚀😄
+⚡ Fun fact:- 🔊 The sound of a successful code run is music to my ears!!🚀😄
 
