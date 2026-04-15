@@ -17,25 +17,16 @@
 
 </div>
 
----
-
-## 🧠 Who Am I
-
+🧠 Who Am I
 <table>
 <tr>
 <td width="55%">
-
-I'm an AI/ML engineer who builds things that **actually work** — from intelligent chatbots supporting student mental health to agentic AI systems automating real business workflows.
-
-With **hands-on applied AI experience**, I've shipped systems across HealthTech, AgriTech, Manufacturing, and Legal/Regulatory domains — not just notebooks, but deployed, running software solving real problems.
-
-I'm looking for an internship where I can **contribute from day one** on real ML, NLP, or data engineering problems.
-
+I'm an AI & ML student with one obsession: making language models actually reliable. From confidence-calibrated RAG pipelines that fight hallucination, to agentic systems automating real business workflows — I work at the intersection of cutting-edge LLM research and production-ready engineering.<br>
+With a CGPA of 9.10 and hands-on experience across HealthTech, AgriTech, Manufacturing, and LegalTech — I don't just experiment in notebooks. I ship systems that run, scale, and matter.<br>
+I'm looking for an internship where I can go deep on hard problems in LLMs, agentic AI, or data engineering — and come back with something deployed.
 </td>
 <td width="45%">
-
-```python
-class Sakshi:
+pythonclass Sakshi:
     role     = "AI/ML Engineer"
     degree   = "B.Tech CSE – AI & ML"
     cgpa     = 9.10
@@ -48,13 +39,9 @@ class Sakshi:
     ]
 
     status = "🎯 Open to Internships"
-```
-
 </td>
 </tr>
 </table>
-
----
 
 ## 🏆 Recognition
 
