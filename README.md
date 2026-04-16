@@ -7,7 +7,7 @@
 
 ---
 
-| B.Tech CSE – AI & ML | CGPA 9.10 | Applied AI | Open to Internships 2026 |
+| B.Tech CSE – AI & ML | CGPA : 9.10 | Applied AI | Open to Internships 2026 |
 |:---:|:---:|:---:|:---:|
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-more-969559293)
