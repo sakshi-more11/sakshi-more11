@@ -153,8 +153,6 @@ Always up for a conversation on LLMs, RAG architectures, or applied NLP research
 
 <br/><br/>
 
-<sub>⚡ Research-minded. Engineering-focused. Building AI that can be trusted.</sub>
+<sub>⚡ AI & ML Engineer · Research-minded, Engineering-focused · Building AI systems that can be trusted.</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
