@@ -6,9 +6,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-more-969559293)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:moresakshi385@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/moresakshisharad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sakshi-more-969559293)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:moresakshi385@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/moresakshisharad)
 
 </div>
 
@@ -41,8 +41,8 @@ I approach AI work the way I'd approach any engineering discipline: read the res
 
 <div align="center">
 
-| 🤖 LLMs | 📚 RAG Systems | ✨ Generative AI | 🗣️ NLP |
-|:---:|:---:|:---:|:---:|
+|                            🤖 LLMs                           |                       📚 RAG Systems                      |                       ✨ Generative AI                       |                          🗣️ NLP                         |
+| :----------------------------------------------------------: | :-------------------------------------------------------: | :---------------------------------------------------------: | :------------------------------------------------------: |
 | Prompting, fine-tuning & evaluation of large language models | Retrieval pipelines, grounding & hallucination mitigation | Applied generative pipelines across text & multimodal tasks | Semantic search, classification & information extraction |
 
 </div>
@@ -53,8 +53,8 @@ I approach AI work the way I'd approach any engineering discipline: read the res
 
 <div align="center">
 
-| 🥈 | 📄 | 🌟 | 🚀 |
-|:---:|:---:|:---:|:---:|
+|                   🥈                  |                 📄                |                      🌟                      |            🚀           |
+| :-----------------------------------: | :-------------------------------: | :------------------------------------------: | :---------------------: |
 | **2nd Place** — National AI Hackathon | **Published Researcher** — TA-RAG | **Kaggle Contributor** — ML & Data Notebooks | **5+ Deployed AI Apps** |
 
 </div>
@@ -67,43 +67,38 @@ I approach AI work the way I'd approach any engineering discipline: read the res
 
 <div align="center">
 
-**LLMs · GenAI · NLP · RAG**
-<br/>
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![IBM WatsonX](https://img.shields.io/badge/IBM_WatsonX-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+**LLMs · GenAI · NLP · RAG** <br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![IBM WatsonX](https://img.shields.io/badge/IBM_WatsonX-052FAD?style=for-the-badge\&logo=ibm\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge\&logo=meta\&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge\&logo=spacy\&logoColor=white)
 
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages** <br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-**ML / Data**
-<br/>
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**ML / Data** <br/>
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
-**Backend & Deploy**
-<br/>
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Backend & Deploy** <br/>
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-**Databases & BI**
-<br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Databases & BI** <br/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
 <br/>
 
@@ -114,20 +109,11 @@ I approach AI work the way I'd approach any engineering discipline: read the res
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sakshi-more11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-more11&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=sakshi-more11&theme=tokyonight&hide_border=true" width="65%"/>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi-more11&theme=tokyo-night&hide_border=true" width="90%"/>
 
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sakshi-more11&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
 
 </div>
 
@@ -147,9 +133,9 @@ Always up for a conversation on LLMs, RAG architectures, or applied NLP research
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-more-969559293)
-[![Send Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moresakshi385@gmail.com)
-[![GitHub](https://img.shields.io/badge/Explore_my_repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshi-more11)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sakshi-more-969559293)
+[![Send Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:moresakshi385@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sakshi-more11)
 
 <br/><br/>
 
