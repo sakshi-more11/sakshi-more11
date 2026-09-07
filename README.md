@@ -55,7 +55,7 @@ I approach AI work the way I'd approach any engineering discipline: read the res
 
 |                   🥈                  |                 📄                |                      🌟                      |            🚀           |
 | :-----------------------------------: | :-------------------------------: | :------------------------------------------: | :---------------------: |
-| **2nd Place** — National AI Hackathon | **Published Researcher** — TA-RAG | **Kaggle Contributor** — ML & Data Notebooks | **5+ Deployed AI Apps** |
+| **2nd Place** — National AI Hackathon | **Published Researcher** — TA-RAG | **Kaggle Contributor** — ML & Data Notebooks | **3+ Deployed AI Apps** |
 
 </div>
 
